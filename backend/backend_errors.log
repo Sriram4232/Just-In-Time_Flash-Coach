@@ -1,0 +1,156 @@
+2026-01-24 01:15:51,885 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82318662dd9sm2847054b3a.19 - gsmtp')
+2026-01-24 01:15:51,886 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82318662dd9sm2847054b3a.19 - gsmtp')
+2026-01-24 01:16:07,159 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a817f21707sm8873325ad.28 - gsmtp')
+2026-01-24 01:16:07,165 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a817f21707sm8873325ad.28 - gsmtp')
+2026-01-24 01:16:18,118 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fdcf53sm27058175ad.94 - gsmtp')
+2026-01-24 01:16:18,120 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fdcf53sm27058175ad.94 - gsmtp')
+2026-01-24 01:29:14,207 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802daa994sm26477045ad.6 - gsmtp')
+2026-01-24 01:29:14,207 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802daa994sm26477045ad.6 - gsmtp')
+2026-01-24 01:50:01,497 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3533520597esm5710734a91.4 - gsmtp')
+2026-01-24 01:50:01,499 ERROR:Escalation Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3533520597esm5710734a91.4 - gsmtp')
+2026-01-24 01:52:50,725 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873e6bcsm2901679b3a.54 - gsmtp')
+2026-01-24 01:52:50,726 ERROR:Escalation Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873e6bcsm2901679b3a.54 - gsmtp')
+2026-01-24 01:59:07,155 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802f97836sm26942515ad.48 - gsmtp')
+2026-01-24 01:59:07,157 ERROR:Escalation Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802f97836sm26942515ad.48 - gsmtp')
+2026-01-24 02:09:13,247 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802f97902sm27417295ad.57 - gsmtp')
+2026-01-24 02:09:13,248 ERROR:Escalation Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802f97902sm27417295ad.57 - gsmtp')
+2026-01-24 02:37:10,833 ERROR:Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c635a43f11csm2747307a12.35 - gsmtp')
+2026-01-24 02:37:10,834 ERROR:Escalation Failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c635a43f11csm2747307a12.35 - gsmtp')
+2026-01-24 02:41:53,906 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873c117sm2981709b3a.47 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802dcda23sm28095085ad.30 - gsmtp')
+2026-01-24 02:41:53,908 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873c117sm2981709b3a.47 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802dcda23sm28095085ad.30 - gsmtp')
+2026-01-24 02:49:15,841 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802daa782sm27820685ad.5 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873e519sm2950714b3a.49 - gsmtp')
+2026-01-24 02:49:15,842 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802daa782sm27820685ad.5 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873e519sm2950714b3a.49 - gsmtp')
+2026-01-24 02:52:08,533 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c635a16a106sm2790144a12.15 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3536d88b098sm2695820a91.3 - gsmtp')
+2026-01-24 02:52:08,533 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c635a16a106sm2790144a12.15 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-3536d88b098sm2695820a91.3 - gsmtp')
+2026-01-24 02:52:28,068 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fae2c3sm27876365ad.69 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231876dd0bsm2949427b3a.59 - gsmtp')
+2026-01-24 02:52:28,069 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fae2c3sm27876365ad.69 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231876dd0bsm2949427b3a.59 - gsmtp')
+2026-01-24 02:52:56,264 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802daa782sm27857715ad.5 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fd929asm28001475ad.90 - gsmtp')
+2026-01-24 02:52:56,265 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802daa782sm27857715ad.5 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fd929asm28001475ad.90 - gsmtp')
+2026-01-24 02:55:43,513 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fdce49sm27548435ad.100 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fdd145sm28059335ad.93 - gsmtp')
+2026-01-24 02:55:43,513 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fdce49sm27548435ad.100 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fdd145sm28059335ad.93 - gsmtp')
+2026-01-24 02:56:13,034 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c635a3fb56csm2775444a12.18 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231877005dsm2956691b3a.68 - gsmtp')
+2026-01-24 02:56:13,034 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 41be03b00d2f7-c635a3fb56csm2775444a12.18 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231877005dsm2956691b3a.68 - gsmtp')
+2026-01-24 02:58:37,079 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802f97902sm27921505ad.57 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fb03dfsm27683525ad.75 - gsmtp')
+2026-01-24 02:58:39,946 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 98e67ed59e1d1-35335205bb5sm5854615a91.1 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82318663d82sm2998272b3a.21 - gsmtp')
+2026-01-24 03:13:53,437 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873e77bsm2972986b3a.56 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231876e5d0sm2960886b3a.61 - gsmtp')
+2026-01-24 03:20:33,221 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802fae596sm27916875ad.73 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2a802f98583sm28230405ad.54 - gsmtp')
+2026-01-24 03:45:09,128 ERROR:Email Send Failed (Both methods): SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873c117sm3044499b3a.47 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82318770179sm2963571b3a.67 - gsmtp')
+2026-01-24 03:45:09,131 ERROR:Escalation Failed: SSL failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-8231873c117sm3044499b3a.47 - gsmtp') | TLS failed: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d2e1a72fcca58-82318770179sm2963571b3a.67 - gsmtp')
+2026-01-24 03:47:16,861 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:48:13,442 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:48:21,226 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:48:27,695 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:52:44,952 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:52:51,867 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:52:58,324 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:53:08,821 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:53:15,351 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:53:22,098 ERROR:Teacher not found for feedback increment: teacher_123
+2026-01-24 03:55:12,029 ERROR:AI Generation Error (Groq): Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99420, Requested 822. Please try again in 3m29.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-01-24 03:55:12,213 ERROR:Traceback (most recent call last):
+  File "E:\Teaching-Coach\Frotend\backend\ai_agent.py", line 154, in get_chat_response
+    completion = client.chat.completions.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_utils\_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\resources\chat\completions\completions.py", line 1192, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99420, Requested 822. Please try again in 3m29.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+2026-01-24 04:07:12,943 ERROR:AI Generation Error (Groq): Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99817, Requested 822. Please try again in 9m12.096s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-01-24 04:07:12,945 ERROR:Traceback (most recent call last):
+  File "E:\Teaching-Coach\Frotend\backend\ai_agent.py", line 154, in get_chat_response
+    completion = client.chat.completions.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_utils\_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\resources\chat\completions\completions.py", line 1192, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99817, Requested 822. Please try again in 9m12.096s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+2026-01-24 04:10:43,319 ERROR:AI Generation Error (Groq): Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99574, Requested 822. Please try again in 5m42.144s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-01-24 04:10:43,322 ERROR:Traceback (most recent call last):
+  File "E:\Teaching-Coach\Frotend\backend\ai_agent.py", line 154, in get_chat_response
+    completion = client.chat.completions.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_utils\_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\resources\chat\completions\completions.py", line 1192, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99574, Requested 822. Please try again in 5m42.144s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+2026-01-24 04:20:39,525 ERROR:AI Generation Error (Groq): Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99921, Requested 821. Please try again in 10m41.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-01-24 04:20:39,528 ERROR:Traceback (most recent call last):
+  File "E:\Teaching-Coach\Frotend\backend\ai_agent.py", line 154, in get_chat_response
+    completion = client.chat.completions.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_utils\_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\resources\chat\completions\completions.py", line 1192, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99921, Requested 821. Please try again in 10m41.088s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+2026-01-24 04:21:30,751 ERROR:AI Generation Error (Groq): Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99862, Requested 821. Please try again in 9m50.112s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-01-24 04:21:30,753 ERROR:Traceback (most recent call last):
+  File "E:\Teaching-Coach\Frotend\backend\ai_agent.py", line 154, in get_chat_response
+    completion = client.chat.completions.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_utils\_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\resources\chat\completions\completions.py", line 1192, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99862, Requested 821. Please try again in 9m50.112s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+
+2026-01-24 04:21:52,958 ERROR:AI Generation Error (Groq): Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99836, Requested 826. Please try again in 9m31.968s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+2026-01-24 04:21:52,960 ERROR:Traceback (most recent call last):
+  File "E:\Teaching-Coach\Frotend\backend\ai_agent.py", line 154, in get_chat_response
+    completion = client.chat.completions.create(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_utils\_utils.py", line 286, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\resources\chat\completions\completions.py", line 1192, in create
+    return self._post(
+           ^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1259, in post
+    return cast(ResponseT, self.request(cast_to, opts, stream=stream, stream_cls=stream_cls))
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\tatan\AppData\Local\Programs\Python\Python311\Lib\site-packages\openai\_base_client.py", line 1047, in request
+    raise self._make_status_error_from_response(err.response) from None
+openai.RateLimitError: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01kdz0nky0efdtx089j8h25rz0` service tier `on_demand` on tokens per day (TPD): Limit 100000, Used 99836, Requested 826. Please try again in 9m31.968s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}
+

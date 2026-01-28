@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pymongo
+pyotp
+python-dotenv
+bcrypt
+pydantic
+requests
+email-validator
+groq
+SpeechRecognition
+gTTS
+deep-translator
+openai
+python-multipart

@@ -1,0 +1,7 @@
+SECRET_KEY=supersecretkey
+MONGO_URI=mongodb+srv://user:pass@cluster.mongodb.net/flash_coach
+DB_NAME=flash_coach
+EMAIL_SENDER=noreply@flashcoach.com
+EMAIL_PASSWORD=password
+CRP_EMAIL_FALLBACK=crp@example.com
+GROQ_API_KEY=gsk_...
