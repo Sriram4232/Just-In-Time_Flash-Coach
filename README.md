@@ -1,5 +1,7 @@
 # Flash Coach
 
+[**🚀 Live Demo**](https://just-in-time-flash-coach-gv4qc27gf-srirams-projects-d3650924.vercel.app/)
+
 Flash Coach is a cutting-edge, AI-powered coaching platform designed to provide accessible, "Just-In-Time" feedback and guidance. Built with a modern Next.js frontend and a robust FastAPI backend, it leverages advanced audio processing and Large Language Models (LLMs) to deliver personalized coaching experiences.
 
 ## 🚀 Features
@@ -90,6 +92,12 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the application.
+
+## 🌐 Deployment
+
+The application follows a decoupled architecture:
+*   **Frontend**: Hosted on [Vercel](https://just-in-time-flash-coach-gv4qc27gf-srirams-projects-d3650924.vercel.app/)
+*   **Backend**: Hosted separately (e.g., Render). *Note: Free tier backends may sleep; allow ~60s for the first request.*
 
 ## 🤝 Contributing
 
