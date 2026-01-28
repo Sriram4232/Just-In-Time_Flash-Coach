@@ -97,7 +97,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 The application follows a decoupled architecture:
 *   **Frontend**: Hosted on [Vercel](https://just-in-time-flash-coach-gv4qc27gf-srirams-projects-d3650924.vercel.app/)
-*   **Backend**: Hosted separately (e.g., Render). *Note: Free tier backends may sleep; allow ~60s for the first request.*
+*   **Backend**: Hosted on [Render](https://just-in-time-flash-coach.onrender.com). *Note: Free tier backends may sleep; allow ~60s for the first request.*
 
 ## 🤝 Contributing
 
