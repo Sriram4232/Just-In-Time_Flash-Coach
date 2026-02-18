@@ -3,7 +3,7 @@ import requests
 import uuid
 import time
 
-BASE_URL = "http://localhost:8000"
+BASE_URL = "https://just-in-time-flash-coach.onrender.com"
 TEACHER_ID = "teacher_123" # Needs to match a valid teacher in DB or at least schema
 SESSION_ID = str(uuid.uuid4())
 
