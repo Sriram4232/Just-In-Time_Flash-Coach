@@ -16,7 +16,7 @@ with wave.open(filename, 'w') as wav_file:
 print(f"Created {filename}")
 
 # 2. Upload to Endpoint
-url = "http://127.0.0.1:8000/api/speech-to-text"
+url = "https://just-in-time-flash-coach.onrender.com/api/speech-to-text"
 try:
     with open(filename, 'rb') as f:
         print("Sending request...")
