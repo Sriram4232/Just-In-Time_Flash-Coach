@@ -59,7 +59,7 @@ export default function CRPDetailsPage() {
             const tempSignupData = JSON.parse(tempSignupDataStr)
 
             // API Call to Signup
-            const res = await fetch(`${process.env.NEXT_PUBLIC_BACKEND_URL}/signup`, {
+            const res = await fetch(`${process.env.NEXT_PUBLIC_API_BASE_URL}/signup`, {
                 method: "POST",
                 headers: { "Content-Type": "application/json" },
                 body: JSON.stringify({
