@@ -9,7 +9,7 @@ setup_logging()
 app = FastAPI()
 
 origins = [
-    "https://just-in-time-flash-coach.onrender.com/",
+    "https://just-in-time-flash-coach.vercel.app",
     # "http://localhost:3000",
 ]
 
